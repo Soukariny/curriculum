@@ -1,0 +1,69 @@
+.font{
+    display: table;
+    float: right;
+    margin-right: 79%; 
+    margin-top: -16%;
+}
+.nome{
+    width: 500px;
+    margin-left: 190px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+body{
+    background-color: #DCDCDC;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+}
+.topo{
+    width: 800px;
+    justify-content: left;
+}
+
+.central{
+    background-color: white;
+    width: 800px;
+    display: table;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    display: table; 
+    
+}
+
+div{
+    border-style: solid;
+    border-width: 0px;  
+    display: table; 
+}
+
+.topo1{
+ 
+    float: left;
+   
+}
+
+#principal{
+    margin-left: 19px;
+    margin-right: 19px;
+    margin-top: 50px;
+}
+
+.titulo{
+    border-style: solid;
+    border-width: 1px;
+    width: 750px;
+    text-align: center;
+    
+}
